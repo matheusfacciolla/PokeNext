@@ -2,7 +2,6 @@ import Footer from "./Footer";
 import Navbar from "./Navbar";
 
 import Head from "next/head";
-import Link from "next/link";
 
 export default function Layout({ children }) {
     return (
@@ -12,7 +11,7 @@ export default function Layout({ children }) {
                 <title>PokeNext</title>
             </Head>
             <Navbar />
-            <main>{children}</main>
+            <main className="main-container">{children}</main>
             <Footer />
         </>
     )
