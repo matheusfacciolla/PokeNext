@@ -7,5 +7,5 @@ export default function Footer() {
                 <span>PokeNext</span> &copy; 2021 - Matheus Tassi Facciolla
             </p>
         </footer>
-    )
+    );
 }
