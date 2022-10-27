@@ -1,4 +1,4 @@
-# <p align = "center"> Projeto MyExperiences </p>
+# <p align = "center"> Projeto PokeDex </p>
 
 <p align="center">
    <img src="https://cdn-icons-png.flaticon.com/512/188/188918.png" alt="dp" height="140" width="140"/>
@@ -17,11 +17,12 @@ Primeiro projeto utilizando Next.js, com o objetivo de validar os conhecimentos 
 
 ## :computer: Tecnologias e Conceitos
 
-<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-
+<div>
+   <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</div>
 
 ---
 
